@@ -1,13 +1,14 @@
 # 📊 Power BI - Downtime Monitoring Dashboard
 
+⚠️ **Disclaimer:** The dataset used in this project is **fictitious**.  
+This dashboard was created **only as a presentation model** and should not be interpreted as real operational data.
+
+## 🔎 Description
 This project was built in **Power BI** with the purpose of monitoring and analyzing **downtime** based on several key factors:
 
 - **Activity type** (e.g., maintenance, calibration, die change, etc.)
 - **Priority level** (normal, urgent, high, very high, secondary)
 - **Work area/asset** where the event occurred
-
-⚠️ **Disclaimer:** The dataset used in this project is **fictitious**.  
-This dashboard was created **only as a presentation model** and should not be interpreted as real operational data.
 
 ## 🗂️ Dataset
 The dataset used comes from an **Excel file**, containing detailed records of work orders.  
