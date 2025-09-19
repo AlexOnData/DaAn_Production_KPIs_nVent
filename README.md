@@ -70,5 +70,3 @@ The main objective of this application is to provide a clear overview of **downt
 - Reducing downtime
 - Identifying critical areas
 - Prioritizing interventions based on impact
-
----
