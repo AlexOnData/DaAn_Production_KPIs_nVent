@@ -36,7 +36,7 @@ The developed dashboard provides:
 ## 🖼️ Visual Example
 Below is a snapshot of the Power BI dashboard:
 
-![Dashboard Example](617ee05e-7510-4897-9bbe-155ad930791f.png)
+![./assets](dashboard.png)
 
 ## ▶️ How to Run
 To reproduce or use this project in Power BI, follow these steps:
