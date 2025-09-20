@@ -1,4 +1,4 @@
-# 📊 Power BI - Downtime Monitoring Dashboard
+# 📊 PowerBI - Downtime Monitoring Dashboard
 
 ⚠️ **Disclaimer:** The dataset used in this project is **fictitious**.  
 This dashboard was created **only as a presentation model** and should not be interpreted as real operational data.
